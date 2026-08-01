@@ -14,7 +14,7 @@ I'm a computational biologist / bioinformatician based in Jena, Germany. I recen
 
 | Repo | Description |
 |---|---|
-| [dN-dS-Snakemake-pipeline](https://github.com/suvrathaprasad/dN-dS-Snakemake-pipeline) | Production Snakemake pipeline for pairwise dN/dS estimation between species |
+| [dN-dS-Snakemake-pipeline](https://github.com/suvrathaprasad/dN-dS-Snakemake-pipeline) | Reproducible Snakemake pipeline for pairwise dN/dS estimation between species |
 | [VvRNA-analyses](https://github.com/suvrathaprasad/VvRNA-analyses) | Analysis scripts for *Genome Biology and Evolution* (2026), [10.1093/gbe/evag026](https://doi.org/10.1093/gbe/evag026) |
 
 ---
