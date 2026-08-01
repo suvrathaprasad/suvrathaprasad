@@ -4,7 +4,8 @@ I'm a computational biologist / bioinformatician based in Jena, Germany. I recen
 
 - 🔬 **Research interests:** sex chromosome evolution, dosage compensation, comparative genomics, transcriptomics, molecular evolution
 - 🧰 **Core tools:** Python, R, Snakemake, HPC/Slurm, GATK, Scanpy/Seurat, genome assembly (PacBio HiFi, Hi-C)
-- 📄 **Publications:** [suvrathaprasad.github.io](https://suvrathaprasad.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ZmuYJoUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8230-415X)
+- 🌐 **Portfolio:** [suvrathaprasad.github.io](https://suvrathaprasad.github.io)
+- 📄 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=ZmuYJoUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8230-415X)
 - 📫 **Reach me:** [email](mailto:suvratha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suvratha/)
 
 ---
