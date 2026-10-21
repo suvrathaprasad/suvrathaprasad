@@ -1,6 +1,6 @@
 ### Hi, I'm Suvratha 👋
 
-I'm a computational biologist / bioinformatician based in Jena, Germany. I completed my PhD at Friedrich Schiller Universität Jena (Population Ecology Group), studying **neo-sex chromosome evolution and dosage compensation** in *Vandiemenella viatica* grasshoppers using multi-omics approaches. I'm now a postdoc at the **Friedrich-Loeffler-Institut**, working on bioinformatics for microbial pathogenicity and veterinary transcriptomics.
+I'm a computational biologist / bioinformatician based in Jena, Germany. I completed my PhD at Friedrich Schiller Universität Jena (Population Ecology Group), studying "neo-sex chromosome evolution and dosage compensation in *Vandiemenella viatica* grasshoppers" using multi-omics approaches. I'm now a postdoc at the Friedrich-Loeffler-Institut, Jena working on bioinformatics for microbial pathogenicity and veterinary transcriptomics.
 
 - 🔬 **Research interests:** sex chromosome evolution, dosage compensation, comparative genomics, transcriptomics, molecular evolution, genome-scale models
 - 🧰 **Core tools:** Python, R, Snakemake, Nextflow, HPC/Slurm, GATK, Scanpy/Seurat, genome assembly (PacBio HiFi, Hi-C)
